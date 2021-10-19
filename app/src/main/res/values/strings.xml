@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatTest</string>
+    <string name="e_mail_text">e-mail</string>
+    <string name="password_text">password</string>
+    <string name="sing_up_text">Sing Up</string>
+    <string name="log_in_text">Log In</string>
+    <string name="continue_without_sing_up_text">Продолжить без регистрации</string>
+    <string name="nick_name_text">nick-name</string>
+    <string name="continue_text">Продолжить</string>
+    <string name="exit_account_text">Выйти из аккаунта</string>
+    <string name="settings_text">Настройки</string>
+</resources>
